@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stalloutart/stalloutart.github.io/static/css/main.a617e044.chunk.css",
-    "main.js": "/stalloutart/stalloutart.github.io/static/js/main.fdd73cc1.chunk.js",
-    "main.js.map": "/stalloutart/stalloutart.github.io/static/js/main.fdd73cc1.chunk.js.map",
+    "main.js": "/stalloutart/stalloutart.github.io/static/js/main.a9470953.chunk.js",
+    "main.js.map": "/stalloutart/stalloutart.github.io/static/js/main.a9470953.chunk.js.map",
     "runtime-main.js": "/stalloutart/stalloutart.github.io/static/js/runtime-main.3a135b48.js",
     "runtime-main.js.map": "/stalloutart/stalloutart.github.io/static/js/runtime-main.3a135b48.js.map",
     "static/js/2.3dae2538.chunk.js": "/stalloutart/stalloutart.github.io/static/js/2.3dae2538.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3a135b48.js",
     "static/js/2.3dae2538.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.fdd73cc1.chunk.js"
+    "static/js/main.a9470953.chunk.js"
   ]
 }
